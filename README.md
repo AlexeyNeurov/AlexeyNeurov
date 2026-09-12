@@ -1,8 +1,15 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:24CAB3&height=200&section=header&text=Alexey%20Neurov&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=ML%20Engineer%20%7C%20NLP%20%C2%B7%20LLM%20%C2%B7%20RAG%20%C2%B7%20Agentic%20AI&descAlignY=55&descSize=18&animation=fadeIn" width="100%" alt="header banner"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=24CAB3&center=true&vCenter=true&width=650&lines=ML+Engineer+%7C+NLP+%2F+LLM+%2F+RAG;Agentic+AI+%26+Multi-Agent+Systems;Computer+Vision+%7C+PyTorch+%2F+TensorFlow;Building+end-to-end+ML+pipelines+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
 # Привет, меня зовут Алексей 👋
 
 [![Telegram](https://img.shields.io/badge/Telegram-24CAB3?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/neurovale)
 [![Email](https://img.shields.io/badge/Email-24CAB3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexeyneurov@yandex.ru)
-[![Mail.Ru](https://img.shields.io/badge/Mail.Ru-24CAB3?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:alexeyneurov@yandex.ru)
 
 Я **ML-инженер** с опытом построения ИИ-пайплайнов полного цикла: NLP, LLM, RAG и Computer Vision. Специализируюсь на разработке сложных агентных систем, RAG-архитектур и прикладных ML-решений для работы с естественным языком, неструктурированными данными и изображениями.
 
@@ -44,20 +51,24 @@
 | Название проекта | Описание проекта | Стек |
 | --- | --- | --- |
 | **RAG-система поиска по патентной базе «РосПатент»** | Масштабируемая система семантического поиска и анализа патентных документов в масштабе РФ. Кастомный чанкинг с учётом юридической структуры патентов, гибридный поиск (RuSBERT + Qdrant + BM25 + граф цитирований через RRF), reranking топ-N документов, fine-tuning open-source LLM на датасете патентного права. | Python · PyTorch · LangChain · Qdrant · PostgreSQL · Qwen-7B/GPT-4 · Docker |
+| **RAG-система по болезни Альцгеймера** | Система интеллектуального поиска и анализа научной/клинической литературы по болезни Альцгеймера — поиск релевантных исследований, извлечение фактов и генерация обоснованных ответов на естественном языке со ссылками на первоисточники. | Python · LangChain · Qdrant/FAISS · Sentence-Transformers · OpenAI API |
+| **Классификация, детекция и сегментация крысы (CV)** | End-to-end пайплайн компьютерного зрения для анализа изображений/видео с лабораторными крысами: классификация состояний, детекция объекта (bounding box) и сегментация для точного выделения контура животного в кадре. | PyTorch · TensorFlow · YOLO (Ultralytics) · OpenCV · DeepLabCut |
 
-> 💼 Проект реализован в рамках работы в **Корпорации ЭЛАР** (2023–2026) на позиции Младшего ML-инженера
+> 💼 Проекты реализованы в рамках работы в **Корпорации ЭЛАР** (2023–2026) на позиции Младшего ML-инженера
 
 ## **Опыт и образование**
 
 - 🎓 Магистратура НИУ ВШЭ, факультет компьютерных наук — «Искусственный интеллект» (2028)
 - 🎓 Бакалавриат ЮФУ, факультет биологических наук — «Биология» (2024)
-- 📜 Курсы: *Hands-On Large Language Models* (Alammar & Grootendorst), *Практический Deep Learning* (Yandex), *Инженер машинного обучения* (Karpov.Courses)
 
-## **GitHub статистика:**
+**📜 Повышение квалификации:**
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![Streak](https://nirzak-streak-stats.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+| Год | Курс | Организация |
+| :-: | --- | --- |
+| 2025 | 🧠 Практический Deep Learning | Yandex |
+| 2025 | ⚙️ Инженер машинного обучения | Karpov.Courses |
+| 2024 | 🤖 Hands-On Large Language Models | Jay Alammar & Maarten Grootendorst |
+| 2023 | 🐍 Программирование на Python | Институт биоинформатики |
 
 ---
 📩 Свяжитесь со мной: [Telegram](https://t.me/neurovale) · [Email](mailto:alexeyneurov@yandex.ru)
